@@ -640,6 +640,27 @@ h3.title:before {
 
 
 /* //Photoshop */
+
+
+
+.Spiderman {
+    background: url(../images/spidermanNoWayHome.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 470px;
+}
+
+
+
+
+
+
+
+
+
 .Photoshop {
     background: url(../images/atrapada-en-la-navidad.png) no-repeat center;
     background-size: cover;
