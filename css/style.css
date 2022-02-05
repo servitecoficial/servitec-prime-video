@@ -756,6 +756,17 @@ h3.title:before {
     min-height: 470px;
 }
 
+.tomm {
+    background: url(../images/uncas.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 470px;
+}
+
+
 .text-effect-wthree.midd-text-w3ls {
     margin-top: 21em;
 }
@@ -1318,6 +1329,45 @@ a.blog-grid-title {
     -ms-border-radius: 0px;
     -moz-border-radius: 0px;
     border-radius: 0px;
+}
+
+
+.pam  {
+    background: url(../images/tomm.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 470px;
+}
+
+.tom1  {
+    background: url(../images/Series/Pam&tommy/tomm1.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 470px;
+}
+.tom2  {
+    background: url(../images/Series/Pam&tommy/tomm2.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 470px;
+}
+.tom3  {
+    background: url(../images/Series/Pam&tommy/tomm3.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 470px;
 }
 
 /* //contact form */
